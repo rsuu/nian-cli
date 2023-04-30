@@ -1,0 +1,12 @@
+[package]
+name = "nian-cli"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.71"
+lexopt = "0.3.0"
+miniserde = "0.1.30"
+rusqlite = "0.29.0"
